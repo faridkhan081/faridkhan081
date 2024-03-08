@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faridkhan081
-- 👀 I’m interested in Machine Learning, Python, AI, DL
-- 🌱 I’m currently learning Computer Sciences
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+-  I’m interested in Machine Learning, Python, AI, DL
+-  I’m currently learning Computer Sciences
+-  I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me linkedin, or @faridkhan7777081@gmail.com
 
 <!---
